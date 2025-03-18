@@ -21,6 +21,7 @@ public class length {
 			System.out.println(arr4[i]);
 		}
 
+		arr4[3] = 333;
 	}
 
 }
